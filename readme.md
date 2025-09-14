@@ -10,6 +10,14 @@ An AI-powered static code analysis tool that provides comprehensive insights int
 - **Professional Reports**: Generate detailed PDF reports with actionable insights
 - **Intuitive UI**: Clean Streamlit-based web interface
 
+## Architectures 
+
+### System Architecture - Analysis Report
+![Alt text](https://github.com/Shrijeet14/SKV_Coding_QnA/blob/main/system_architecture_analysis.jpeg)
+
+### QnA Bot Architecture - Analysis Report
+![Alt text](https://github.com/Shrijeet14/SKV_Coding_QnA/blob/main/QnA-Architecture.jpeg)
+
 ## Quick Start
 
 ### Prerequisites
