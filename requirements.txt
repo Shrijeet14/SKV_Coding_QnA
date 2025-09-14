@@ -1,0 +1,10 @@
+streamlit
+google-generativeai
+llama-index
+pypdf2
+reportlab
+langchain
+langgraph
+gitpython
+python-dotenv
+asyncio
